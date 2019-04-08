@@ -16,7 +16,7 @@ import java.util.Map;
  * @date 2019/4/8 - 16:42
  */
 
-@PropertySource(value = {"classpath:person.properties"})
+//@PropertySource(value = {"classpath:person.properties"})
 @Component
 @ConfigurationProperties(prefix = "person")
 //@Validated
