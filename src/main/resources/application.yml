@@ -1,15 +1,15 @@
-server:
-  port: 8080
+#server:
+#  port: 8080
 
-person:
-  lastName: zhangsan
-  age: 18
-  boss: false
-  birth: 2019/4/8
-  maps: {k1: v1,k2: 12}
-  lists:
-    - lisi
-    - zhaoliu
-  dog:
-    name: wbs
-    age: 2
+#person:
+#  lastName: zhangsan
+#  age: 18
+#  boss: false
+#  birth: 2019/4/8
+#  maps: {k1: v1,k2: 12}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: wbs
+#    age: 2
